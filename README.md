@@ -1,2 +1,4 @@
-# chronicle-sivchari
-Wind up bird.
+# s6i.io
+
+This is my chronicle.
+
