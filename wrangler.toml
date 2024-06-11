@@ -1,0 +1,6 @@
+name = "s6i"
+main = "./build/worker.mjs"
+compatibility_date = "2024-06-11"
+
+[build]
+command = "make build"
